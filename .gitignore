@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.ipynb_checkpoints/
+
+data/*.csv  # Игнорируем большие датасеты, чтобы не загружать их на GitHub

@@ -1,0 +1,1 @@
+An online store data analysis training project to demonstrate SQL, Python, and Power BI skills
